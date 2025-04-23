@@ -1,6 +1,8 @@
 {
-   "Produto" : [
-    { "id" : 1 , "valor" : "14" },
-    
-  ],
+   "produto":[
+      {
+         "id":1,
+         "valor":"14"
+      }
+   ]
 }
