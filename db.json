@@ -4,6 +4,13 @@
          "id":1,
          "Nome": "Café",
          "valor":"14"
-      }
+      },
+
+       {
+         "id":2,
+         "Nome": "Feijão",
+         "valor":"17"
+      },
+      
    ]
 }
