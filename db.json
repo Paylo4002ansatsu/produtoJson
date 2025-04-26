@@ -9,6 +9,11 @@
          "id":2,
          "Nome":"Feijão",
          "valor":"17"
+      },
+      {
+         "id":3,
+         "Nome":"Pipoca",
+         "valor":"5"
       }
    ]
 }
