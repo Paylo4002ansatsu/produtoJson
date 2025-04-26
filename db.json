@@ -2,15 +2,13 @@
    "produto":[
       {
          "id":1,
-         "Nome": "Café",
+         "Nome":"Café",
          "valor":"14"
       },
-
-       {
+      {
          "id":2,
-         "Nome": "Feijão",
+         "Nome":"Feijão",
          "valor":"17"
-      },
-      
+      }
    ]
 }
